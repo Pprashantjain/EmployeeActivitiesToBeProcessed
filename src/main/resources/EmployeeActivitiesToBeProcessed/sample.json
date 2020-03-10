@@ -1,0 +1,157 @@
+[
+	{
+		"all_employees_last_7_days_statistics": [
+			{
+				"activity_name": "login",
+				"occurrences": "9"
+			},
+			{
+				"activity_name": "logout",
+				"occurrences": "9"
+			},
+			{
+				"activity_name": "teabreak",
+				"occurrences": "0"
+			},
+			{
+				"activity_name": "lunchbreak",
+				"occurrences": "0"
+			},
+			{
+				"activity_name": "gamemood",
+				"occurrences": "0"
+			},
+			{
+				"activity_name": "naptime",
+				"occurrences": "0"
+			}
+		],
+		"todays_activities": [
+			{
+				"employee_id": 25,
+				"activities": [
+					{
+						"name": "login",
+						"time": 1220,
+						"duration": 0
+					},
+					{
+						"name": "logout",
+						"time": 1830,
+						"duration": 0
+					}
+				]
+			},
+			{
+				"employee_id": 19,
+				"activities": [
+					{
+						"name": "login",
+						"time": 1220,
+						"duration": 0
+					},
+					{
+						"name": "logout",
+						"time": 1830,
+						"duration": 0
+					}
+				]
+			},
+			{
+				"employee_id": 18,
+				"activities": [
+					{
+						"name": "login",
+						"time": 1220,
+						"duration": 0
+					},
+					{
+						"name": "logout",
+						"time": 1830,
+						"duration": 0
+					}
+				]
+			},
+			{
+				"employee_id": 12,
+				"activities": [
+					{
+						"name": "login",
+						"time": 1220,
+						"duration": 0
+					},
+					{
+						"name": "logout",
+						"time": 1830,
+						"duration": 0
+					}
+				]
+			},
+			{
+				"employee_id": 10,
+				"activities": [
+					{
+						"name": "login",
+						"time": 1220,
+						"duration": 0
+					},
+					{
+						"name": "logout",
+						"time": 1830,
+						"duration": 0
+					}
+				]
+			},
+			{
+				"employee_id": 2,
+				"activities": [
+					{
+						"name": "login",
+						"time": 1220,
+						"duration": 0
+					},
+					{
+						"name": "logout",
+						"time": 1830,
+						"duration": 0
+					}
+				]
+			},
+			{
+				"employee_id": 1,
+				"activities": [
+					{
+						"name": "login",
+						"time": 1220,
+						"duration": 0
+					},
+					{
+						"name": "login",
+						"time": 1220,
+						"duration": 0
+					},
+					{
+						"name": "login",
+						"time": 1220,
+						"duration": 0
+					},
+					{
+						"name": "logout",
+						"time": 1830,
+						"duration": 0
+					},
+					{
+						"name": "logout",
+						"time": 1830,
+						"duration": 0
+					},
+					{
+						"name": "logout",
+						"time": 1830,
+						"duration": 0
+					}
+				]
+			}
+		]
+	}
+]
